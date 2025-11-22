@@ -1,0 +1,17 @@
+{
+    "name": "MyGame.Controller",
+    "rootNamespace": "MyGame.Controller",
+    "references": [
+        "View",
+        "Unity.InputSystem"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

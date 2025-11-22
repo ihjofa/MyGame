@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(chmod:*)",
+      "Bash(./scripts/find-unity.sh:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(./scripts/check-dependencies.sh:*)",
+      "Bash(./scripts/run-unity-tests.sh:*)",
+      "Bash(git push:*)",
+      "Bash(wslpath:*)",
+      "Bash(mv:*)",
+      "Bash(rm:*)",
+      "Bash(git reset:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
